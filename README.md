@@ -9,3 +9,8 @@ The device attaches to a heavy bag and uses two sensors: one to measure punch fo
 Specification: 
 
 This device must be able to attach to a heavy bag 
+
+
+Constraints: 
+What pressure sensors should be bought. How are they going to be stuck
+Heavy Bag will be moving. Interference from noise and tape will happen 
